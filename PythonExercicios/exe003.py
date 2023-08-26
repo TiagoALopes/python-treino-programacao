@@ -1,0 +1,5 @@
+#n = input('Digite algo: ')
+primeiroNumero = input('Informe o primeiro número:')
+segundoNumero = input('Informe o segundo número:')
+soma = float(primeiroNumero) + float(segundoNumero)
+print('A soma de {} com {} é igual há: {}'.format(primeiroNumero, segundoNumero, soma))
