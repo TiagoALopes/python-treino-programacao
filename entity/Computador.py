@@ -13,7 +13,7 @@ class Computador:
         self.placavideo = placavideo
 
     def ligar(self):
-        print('Estou ligando...')
+        return 'Estou ligando...'
 
     def desligar(self):
         print('Estou desligando...')
